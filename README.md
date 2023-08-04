@@ -8,4 +8,3 @@
 - 📫 How to reach me: TBD
 - 😄 Pronouns: They/Them/He
 - ⚡ Fun fact: I have two wonderful fur children named Louka and Eli
--->
