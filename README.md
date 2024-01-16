@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a graduate student at Boston University studying Applied Business Analytics
-- 🌱 I’m passionate about data science. Currently, learning about relational and non-relational database, the collection, manipulation, and tidying of data, data visualizations, API building, R, Python, statistical analysis of data, time series forecasting, Simple linear and multiple linear regression modeling, and data mining.
-- 👯 I’m looking to collaborate with other professionals inside and outside the data science field; especially, at the intersection of climate change and alternative energy
-- 🤔 I’m looking to learn from others perspectives and shared knowledge.
+- 🔭 The author is a graduate student at Boston University, pursuing a Master’s degree in Applied Business Analytics.
+- 🌱 They are passionate about data science for small businesses and are currently studying relational and non-relational databases, data collection, manipulation, and tidying, data visualization, API building, R, Python, statistical analysis of data, and data mining.
+- 👯 The author is keen on collaborating with other professionals, both inside and outside the data science field, especially at the intersection of analytics and small businesses.
+- 🤔 They are looking forward to learning from others’ perspectives and shared knowledge.
 - 💬 Ask me about anything...
 - 📫 How to reach me: www.linkedin.com/in/garyalanhopkins
 - 😄 Pronouns: They/Them/He
