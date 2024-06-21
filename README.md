@@ -1,14 +1,13 @@
 ### Hi there 👋
 
-- 🔭 The author is a graduate student at Boston University, pursuing a Master’s degree in Applied Business Analytics. They also have a B.S. in Corporate Communications from Valley City State University
+- 🔭 The author is a graduate student at Boston University, pursuing a Master’s degree in Applied Business Analytics. They also have a B.S. in Corporate Communications and minor in Psychology from Valley City State University.
 - 🌱 They are passionate about data science projects focused on environmental sustainablity and civic engagement. 
 - 🔢 Data Analysis Skills
         - data wrangling
         - data visualization
-        - APIs
         - R
         - Python
-        - ML/AI Statistical Analysis
+        - Statistical Analysis
 - 🗣️ Soft Skills
         - Team Collaborator
         - Effective Communicator
@@ -16,7 +15,6 @@
         - Inclusive and Tolorate of Other People
         - Passion for Problem Solving
         - Intellectual Curiosity
-        - Business Sense
 - 👯 The author is keen on collaborating with other professionals, both inside and outside the data science field.
 - 🤔 They are looking forward to learning from others’ perspectives and shared knowledge.
 - 💬 Ask me about anything... Let's Chat!
