@@ -9,15 +9,15 @@
         - Python
         - Statistical Analysis
 - 🗣️ Soft Skills
-        - Team Collaborator
+        - Team Member
         - Effective Communicator
         - Critical Thinking
-        - Inclusive and Tolorate of Other People
-        - Passion for Problem Solving
+        - Inclusiveness
+        - Problem Solving
         - Intellectual Curiosity
 - 👯 The author is keen on collaborating with other professionals, both inside and outside the data science field.
 - 🤔 They are looking forward to learning from others’ perspectives and shared knowledge.
 - 💬 Ask me about anything... Let's Chat!
 - 📫 How to reach me: www.linkedin.com/in/garyalanhopkins
 - 😄 Pronouns: They/Them/He
-- ⚡ Fun fact: I have a passion for scuba diving and my two fur children.
+- ⚡ Fun fact: Their passions include scuba diving, laser machining (creating various items out of various materials), art, music, meditation and yoga, and family and friends.
