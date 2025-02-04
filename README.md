@@ -1,12 +1,11 @@
 ### Hi there 👋
 
 - 🔭 The author is a graduate student at Boston University, pursuing a Master’s degree in Applied Business Analytics. They also have a B.S. in Corporate Communications and minor in Psychology from Valley City State University.
-- 🌱 They are passionate about data science projects focused on environmental sustainablity and civic engagement. 
+- 🌱 They are passionate about projects focused on environmental sustainablity, civic engagement, and applications that help local small businesses. 
 - 🔢 Data Analysis Skills
         - data wrangling
         - data visualization
         - R
-        - Python
         - Statistical Analysis
 - 🗣️ Soft Skills
         - Team Member
